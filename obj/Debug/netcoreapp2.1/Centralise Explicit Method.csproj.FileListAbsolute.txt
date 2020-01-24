@@ -1,0 +1,11 @@
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\bin\Debug\netcoreapp2.1\Centralise Explicit Method.deps.json
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\bin\Debug\netcoreapp2.1\Centralise Explicit Method.runtimeconfig.json
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\bin\Debug\netcoreapp2.1\Centralise Explicit Method.runtimeconfig.dev.json
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\bin\Debug\netcoreapp2.1\Centralise Explicit Method.dll
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.csprojAssemblyReference.cache
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.csproj.CoreCompileInputs.cache
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.AssemblyInfoInputs.cache
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.AssemblyInfo.cs
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\bin\Debug\netcoreapp2.1\Centralise Explicit Method.pdb
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.dll
+D:\Automation\Selenium\Round-2\Centralise Explicit Method\obj\Debug\netcoreapp2.1\Centralise Explicit Method.pdb
